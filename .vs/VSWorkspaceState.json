@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\views\\Static",
+    "\\src\\views\\Static\\components",
+    "\\src\\views\\Upload",
+    "\\src\\views\\Upload\\components",
+    "\\src\\views\\Usage",
+    "\\src\\views\\Usage\\components"
+  ],
+  "SelectedNode": "\\src\\App.vue",
+  "PreviewInSolutionExplorer": false
+}
